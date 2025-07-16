@@ -44,8 +44,8 @@
 
 ### 🚀 Featured Projects
 
-- [🔗 IoT-Based Food Wastage Monitoring and Fine System in Hostel Mess](https://github.com/GirishSCodes/TCP-Server-Client)
-- [🔗 Portfolio Website](https://github.com/GirishSCodes/GirishSCodes)
+- [🔗 IoT-Based Food Wastage Monitoring and Fine System in Hostel Mess](https://github.com/mayur271005/IoT-Based-Food-Wastage-Monitoring-and-Fine-System-in-Hostel-Mess)
+
 
 ---
 
