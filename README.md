@@ -46,6 +46,8 @@
 
 - [🔗 IoT-Based Food Wastage Monitoring and Fine System in Hostel Mess](https://github.com/mayur271005/IoT-Based-Food-Wastage-Monitoring-and-Fine-System-in-Hostel-Mess)
 
+- - [🔗 Smart-Irrigation-System-for-Optimal-Crop-Management](https://github.com/mayur271005/Smart-Irrigation-System-for-Optimal-Crop-Management)
+
 
 ---
 
