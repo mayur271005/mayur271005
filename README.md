@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Girish Shinde</h1>
+<h1 align="center">Hi 👋, I'm Mayur Ingale</h1>
 <h3 align="center">Passionate about building cool and impactful tech projects</h3>
 
 <p align="center">
@@ -10,9 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **Web Development**
-- 💬 Ask me about **C++, Quant Finance, and Backend Systems**
-- 📫 Reach me at: **sgirish1204@gmail.com**
-- ⚡ Fun fact: I love exploring futuristic cities in sci-fi games 🌆🚗
+- 📫 Reach me at: **ingalemayurvilas@gmail.com**
+- ⚡ Fun fact: I love playing football.
 
 ---
 
@@ -31,31 +30,21 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/mayur-ingale-2809502ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sgirish1204@gmail.com">
+  <a href="mailto:ingalemayurvilas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GirishSCodes&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GirishSCodes&theme=radical" width="47%" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 
-- [🔗 TCP-Server-Client](https://github.com/GirishSCodes/TCP-Server-Client)
+- [🔗 IoT-Based Food Wastage Monitoring and Fine System in Hostel Mess](https://github.com/GirishSCodes/TCP-Server-Client)
 - [🔗 Portfolio Website](https://github.com/GirishSCodes/GirishSCodes)
 
 ---
